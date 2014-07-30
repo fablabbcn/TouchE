@@ -1,6 +1,10 @@
 TouchE
 ======
 
-Arduino implementations of the Diseny Touché
+**Arduino implementations of the Diseny Touché.**
 
-A project by [Cleniem](https://github.com/clemniem)
+On going code base for the research and development of Swept Frequency Capacitive Sensing (SFCS) projects and utilities.
+
+Full documentation coming soon!
+
+A project leaded by [Cleniem](https://github.com/clemniem)
